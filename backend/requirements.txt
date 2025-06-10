@@ -1,0 +1,10 @@
+opencv-python
+numpy
+scikit-learn
+matplotlib
+tensorflow
+dlib
+flask
+flask-cors
+face-recognition
+joblib
